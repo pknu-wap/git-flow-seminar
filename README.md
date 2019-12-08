@@ -70,6 +70,12 @@
 
 　
 
+## seminar process
+12.09 - git flow 소개, git flow | github flow | gitlab flow 브랜칭 기법 소개, 동아리에서의 적용시 실질적 한계에 대한 세미나
+
+
+　
+
 
 ### note
 - 복습을 권장(필수)합니다. 특히 배울 내용 중, pull request 및 git flow manaing은 경험해본 사람들도 잠시 사용하지 않으면 금방 잊어먹습니다.
