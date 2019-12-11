@@ -72,6 +72,7 @@
 
 ## seminar process
 12.09 - git flow 소개, git flow | github flow | gitlab flow 브랜칭 기법 소개, 동아리에서의 적용시 실질적 한계에 대한 세미나
+12.11 - x
 
 
 　
