@@ -79,3 +79,5 @@
 
 ### note
 - 복습을 권장(필수)합니다. 특히 배울 내용 중, pull request 및 git flow manaing은 경험해본 사람들도 잠시 사용하지 않으면 금방 잊어먹습니다.
+
+- 12.12 pull request test by forked repository
