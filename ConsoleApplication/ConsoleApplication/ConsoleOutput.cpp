@@ -5,6 +5,7 @@ using namespace std;
 
 void ConsoleOutput::Print1() const
 {
+	printf("Second Upload");
 }
 
 void ConsoleOutput::Print2() const
