@@ -9,6 +9,7 @@ void ConsoleOutput::Print1() const
 
 void ConsoleOutput::Print2() const
 {
+	cout << "commited by minusi\n";
 }
 
 void ConsoleOutput::Print3() const
