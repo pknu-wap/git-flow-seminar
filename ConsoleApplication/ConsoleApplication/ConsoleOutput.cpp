@@ -37,6 +37,7 @@ void ConsoleOutput::Print8() const
 
 void ConsoleOutput::Print9() const
 {
+	cout << "ÂüÄ¡" << endl;
 }
 
 void ConsoleOutput::Print10() const
