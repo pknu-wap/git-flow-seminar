@@ -41,4 +41,5 @@ void ConsoleOutput::Print9() const
 
 void ConsoleOutput::Print10() const
 {
+	printf("Hello, World!");
 }
